@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-**jricardo85/jricardo85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jricardo85/jricardo85**
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning Node JS and APIREST
